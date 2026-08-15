@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Building reliable AI systems, ML products, and developer tools from South Korea.
+  Building AI systems, RAG & ML products, AI Agents and developer tools from South Korea.
 </p>
 
 ## 🔬 Projects
