@@ -10,22 +10,6 @@
   Building reliable AI systems, ML products, and developer tools from South Korea.
 </p>
 
-## 🚀 About Me
-
-<!-- Intentionally left blank — add your personal story, current focus, and goals here. -->
-
-## 💼 Current Work
-
-- Listed on LinkedIn with [Samsung R&D Institute Bangladesh](https://bd.linkedin.com/company/samsungsrbd).
-- Based in South Korea.
-
-## 🛠 Skills
-
-- **Languages:** Python, TypeScript, JavaScript, SQL
-- **AI & ML:** PyTorch, Transformers, RAG, LLM fine-tuning, time-series forecasting, anomaly detection, NLP, model quantization
-- **Backend & MLOps:** FastAPI, Streamlit, Docker, MLflow, PostgreSQL, SQLite, Chroma, CI/CD
-- **Developer tools:** Node.js, npm, MCP, GitHub Actions, `uv`, Ollama, OpenAI-compatible APIs
-
 ## 🔬 Projects
 
 - [**FaultFormer**](https://github.com/Uzbekswe/faultformer) — Transformer-based cross-domain bearing-fault diagnosis with transfer learning; reports 99.77% accuracy.
