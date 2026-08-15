@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Uzbekswe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
   Building AI systems, RAG & ML products, AI Agents and developer tools from South Korea.
 </p>
 
