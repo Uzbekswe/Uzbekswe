@@ -48,9 +48,6 @@
 
 ## 🌐 Languages
 
-- 🇺🇿 Uzbek — professional working proficiency
-- 🇬🇧 English — professional working proficiency
-- 🇷🇺 Russian — professional working proficiency
-- 🇰🇷 Korean — limited working proficiency
+I am native in 🇺🇿 Uzbek, fluent in 🇷🇺 Russian and 🇬🇧 English, intermediate in 🇰🇷 Korean!
 
 <!-- Add awards, scholarships, a portfolio website, and a contact email once you want them public. -->
