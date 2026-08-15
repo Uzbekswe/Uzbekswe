@@ -26,26 +26,18 @@
 - **Backend & MLOps:** FastAPI, Streamlit, Docker, MLflow, PostgreSQL, SQLite, Chroma, CI/CD
 - **Developer tools:** Node.js, npm, MCP, GitHub Actions, `uv`, Ollama, OpenAI-compatible APIs
 
-## 🔬 Featured Projects
-
-### AI systems & applied machine learning
+## 🔬 Projects
 
 - [**FaultFormer**](https://github.com/Uzbekswe/faultformer) — Transformer-based cross-domain bearing-fault diagnosis with transfer learning; reports 99.77% accuracy.
 - [**Uzbekistan Payment Volume Forecasting**](https://github.com/Uzbekswe/Uzbekistan-payment-forecasting) — Production-style daily payment-volume forecasting pipeline using XGBoost, CatBoost, FastAPI, and Docker.
 - [**Manufacturing Anomaly Detection**](https://github.com/Uzbekswe/anomaly-detection-project) — Predictive-maintenance system for NASA CMAPSS sensor data, comparing an LSTM autoencoder, Isolation Forest, and PatchTST, with FastAPI, MLflow, and Docker.
 - [**Korean Sentiment Analysis API**](https://github.com/Uzbekswe/korean-sentiment-analysis-API) — REST API and web UI that classify Korean text into 11 emotion categories using a fine-tuned KcELECTRA model.
 - [**California Housing ML Pipeline**](https://github.com/Uzbekswe/california-housing-ml-pipeline) — End-to-end housing-price prediction system with feature engineering, model tuning, SHAP explainability, FastAPI, and Streamlit.
-
-### Reliable LLM & RAG applications
-
 - [**SmartStore FAQ Assistant**](https://github.com/Uzbekswe/faq-chatbot) — Korean e-commerce RAG assistant with FastAPI, Chroma retrieval, SQLite sessions, streamed answers, visible evidence, tests, CI, and Docker.
 - [**Grounded FAQ API**](https://github.com/Uzbekswe/grounded-faq-api) — Evidence-grounded bilingual FAQ API with JSON/SSE endpoints, local Ollama by default, and bounded SQLite conversations.
 - [**TraceRAG**](https://github.com/Uzbekswe/tracerag) — Local, citation-first terminal RAG system with reproducible evaluation and safe index activation.
 - [**Model Routing**](https://github.com/Uzbekswe/routing-system) — Adaptive, local-first LLM gateway with an OpenAI-compatible API, policy-driven routing, provider translation, failover, and decision evidence.
 - [**LocateAnything**](https://github.com/Uzbekswe/locateanything) — Evidence-first English invoice extraction system that returns six invoice fields linked to visible source evidence.
-
-### Models, research & developer tooling
-
 - [**GPT-2 Small from Scratch**](https://github.com/Uzbekswe/gpt2-124m-from-scratch) — Fresh PyTorch implementation of the 124M-parameter GPT-2 Small architecture, including training, validation, checkpointing, and generation.
 - [**Verifiable Reasoning Lab**](https://github.com/Uzbekswe/verifiable-reasoning-lab) — Reproducible experiments in inference scaling, RLVR, and distillation for small reasoning models.
 - [**MLX Fine-Tuning Pipeline**](https://github.com/Uzbekswe/mlx-ft) — Modular LoRA fine-tuning workflow for LLMs on Apple Silicon, with evaluation and Hugging Face integration.
