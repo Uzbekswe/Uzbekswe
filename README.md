@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muhammad Ali Uzbekswe 👋</h1>
+<h1 align="center">Hi, I'm Muhammad Ali 👋</h1>
 
 <p align="center">
   <a href="https://github.com/Uzbekswe">GitHub</a>
