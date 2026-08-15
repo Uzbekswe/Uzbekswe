@@ -1,16 +1,80 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Muhammad Ali Uzbekswe 👋</h1>
 
-<!--
-**Uzbekswe/Uzbekswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/Uzbekswe">GitHub</a>
+  ·
+  <a href="https://www.linkedin.com/in/uzbekswe">LinkedIn</a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building reliable AI systems, ML products, and developer tools from South Korea.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+<!-- Intentionally left blank — add your personal story, current focus, and goals here. -->
+
+## 💼 Current Work
+
+- Listed on LinkedIn with [Samsung R&D Institute Bangladesh](https://bd.linkedin.com/company/samsungsrbd).
+- Based in South Korea.
+
+## 🛠 Skills
+
+- **Languages:** Python, TypeScript, JavaScript, SQL
+- **AI & ML:** PyTorch, Transformers, RAG, LLM fine-tuning, time-series forecasting, anomaly detection, NLP, model quantization
+- **Backend & MLOps:** FastAPI, Streamlit, Docker, MLflow, PostgreSQL, SQLite, Chroma, CI/CD
+- **Developer tools:** Node.js, npm, MCP, GitHub Actions, `uv`, Ollama, OpenAI-compatible APIs
+
+## 🔬 Featured Projects
+
+### AI systems & applied machine learning
+
+- [**FaultFormer**](https://github.com/Uzbekswe/faultformer) — Transformer-based cross-domain bearing-fault diagnosis with transfer learning; reports 99.77% accuracy.
+- [**Uzbekistan Payment Volume Forecasting**](https://github.com/Uzbekswe/Uzbekistan-payment-forecasting) — Production-style daily payment-volume forecasting pipeline using XGBoost, CatBoost, FastAPI, and Docker.
+- [**Manufacturing Anomaly Detection**](https://github.com/Uzbekswe/anomaly-detection-project) — Predictive-maintenance system for NASA CMAPSS sensor data, comparing an LSTM autoencoder, Isolation Forest, and PatchTST, with FastAPI, MLflow, and Docker.
+- [**Korean Sentiment Analysis API**](https://github.com/Uzbekswe/korean-sentiment-analysis-API) — REST API and web UI that classify Korean text into 11 emotion categories using a fine-tuned KcELECTRA model.
+- [**California Housing ML Pipeline**](https://github.com/Uzbekswe/california-housing-ml-pipeline) — End-to-end housing-price prediction system with feature engineering, model tuning, SHAP explainability, FastAPI, and Streamlit.
+
+### Reliable LLM & RAG applications
+
+- [**SmartStore FAQ Assistant**](https://github.com/Uzbekswe/faq-chatbot) — Korean e-commerce RAG assistant with FastAPI, Chroma retrieval, SQLite sessions, streamed answers, visible evidence, tests, CI, and Docker.
+- [**Grounded FAQ API**](https://github.com/Uzbekswe/grounded-faq-api) — Evidence-grounded bilingual FAQ API with JSON/SSE endpoints, local Ollama by default, and bounded SQLite conversations.
+- [**TraceRAG**](https://github.com/Uzbekswe/tracerag) — Local, citation-first terminal RAG system with reproducible evaluation and safe index activation.
+- [**Model Routing**](https://github.com/Uzbekswe/routing-system) — Adaptive, local-first LLM gateway with an OpenAI-compatible API, policy-driven routing, provider translation, failover, and decision evidence.
+- [**LocateAnything**](https://github.com/Uzbekswe/locateanything) — Evidence-first English invoice extraction system that returns six invoice fields linked to visible source evidence.
+
+### Models, research & developer tooling
+
+- [**GPT-2 Small from Scratch**](https://github.com/Uzbekswe/gpt2-124m-from-scratch) — Fresh PyTorch implementation of the 124M-parameter GPT-2 Small architecture, including training, validation, checkpointing, and generation.
+- [**Verifiable Reasoning Lab**](https://github.com/Uzbekswe/verifiable-reasoning-lab) — Reproducible experiments in inference scaling, RLVR, and distillation for small reasoning models.
+- [**MLX Fine-Tuning Pipeline**](https://github.com/Uzbekswe/mlx-ft) — Modular LoRA fine-tuning workflow for LLMs on Apple Silicon, with evaluation and Hugging Face integration.
+- [**Quantized Muse Glimmer**](https://github.com/Uzbekswe/quantized-muse-glimmer) — Reproducible research lab for custom Q4_K_M post-training quantization and benchmarking of Meta's Muse Glimmer 30B.
+- [**PlanUI**](https://github.com/Uzbekswe/planui) — Published npm package and MCP tool that lets people review, approve, comment on, and return structured plans to AI coding agents.
+
+## 🎓 Education
+
+- **Woosong University** · 2021–2026
+
+<!-- The public LinkedIn view confirms the institution and dates but masks the degree and field of study. Add those details after confirming them while signed in. -->
+
+## 🎓 Selected Certifications
+
+- [**Mathematics for Machine Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/certificate/PMH2K3FWH4PX) — Imperial College London, May 2025
+- [**Mathematics for Machine Learning: Linear Algebra**](https://www.coursera.org/account/accomplishments/records/XIBO9QXVUCQ4) — Imperial College London, May 2025
+- [**Mathematics for Machine Learning: Multivariate Calculus**](https://www.coursera.org/account/accomplishments/records/F17MDYEMGNO5) — Imperial College London, May 2025
+- [**Mathematics for Machine Learning: PCA**](https://www.coursera.org/account/accomplishments/records/8FSO2H0EVIT7) — Imperial College London, May 2025
+- [**Python for Data Science, AI & Development**](https://www.coursera.org/account/accomplishments/records/TWR3Y2IW6R9L) — IBM, May 2025
+- [**Python Project for Data Science**](https://www.coursera.org/account/accomplishments/records/H9BC5P1O7LI9) — IBM, May 2025
+- [**Getting Started with Git and GitHub**](https://www.coursera.org/account/accomplishments/records/QZ0YZ3YYVI8P) — IBM, May 2025
+- [**Intro to Machine Learning**](https://www.kaggle.com/learn/certification/uzbekswe/intro-to-machine-learning) — Kaggle, May 2025
+- [**Intro to AI Ethics**](https://www.kaggle.com/learn/certification/uzbekswe/intro-to-ai-ethics) — Kaggle, June 2025
+
+## 🌐 Languages
+
+- 🇺🇿 Uzbek — professional working proficiency
+- 🇬🇧 English — professional working proficiency
+- 🇷🇺 Russian — professional working proficiency
+- 🇰🇷 Korean — limited working proficiency
+
+<!-- Add awards, scholarships, a portfolio website, and a contact email once you want them public. -->
