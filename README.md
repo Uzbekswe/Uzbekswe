@@ -30,7 +30,7 @@
 
 ## 🎓 Education
 
-- **Woosong University** · 2021–2026
+- **Bachelor of Engineering, Data Science, Woosong University, South Korea ** · 2021–2026
 
 <!-- The public LinkedIn view confirms the institution and dates but masks the degree and field of study. Add those details after confirming them while signed in. -->
 
