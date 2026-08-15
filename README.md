@@ -30,8 +30,10 @@
 
 ## 🎓 Education
 
-- **Bachelor of Engineering, Data Science, Woosong University, South Korea ** · 2021–2026
-
+- Bachelor of Engineering, Data Science, Woosong University, South Korea · August 2021 – February 2026
+- Bachelor of Entrepreneurship/Entrepreneurial Studies, Babson College, USA · March 2025 - July 2025
+- Summer Mandarin Chinese Program, Hungkuang University, Taiwan · August 2025 - August 2025
+ 
 <!-- The public LinkedIn view confirms the institution and dates but masks the degree and field of study. Add those details after confirming them while signed in. -->
 
 ## 🎓 Certifications
