@@ -16,12 +16,12 @@
 
 ## 🚀 About Me
 
-I am an independent AI engineer and researcher who builds AI systems that can be inspected and reproduced—not just demonstrated. My work spans [FaultFormer](https://github.com/Uzbekswe/faultformer), a cross-domain Transformer approach to bearing-fault diagnosis, and evidence-first LLM systems for Korean e-commerce support, document extraction, and local knowledge retrieval.
+I am an independent AI engineer and researcher based in South Korea. I graduated with a Bachelor of Engineering in Data Science from Woosong University and am open to AI/ML engineering, research, and collaboration opportunities.
 
-I also build the infrastructure around reliable AI: [TraceRAG](https://github.com/Uzbekswe/tracerag) for citation-first local retrieval, [Model Routing](https://github.com/Uzbekswe/routing-system) for adaptive LLM gateways, and [PlanUI](https://github.com/Uzbekswe/planui), an npm/MCP package for structured human review of coding-agent plans. My research work includes a [GPT-2 Small reimplementation](https://github.com/Uzbekswe/gpt2-124m-from-scratch), a [verifiable reasoning lab](https://github.com/Uzbekswe/verifiable-reasoning-lab), and reproducible [LLM quantization](https://github.com/Uzbekswe/quantized-muse-glimmer) experiments.
+During my experience with Samsung R&D Institute Bangladesh, I contributed to a computer-vision project in an R&D environment. That experience strengthened my interest in building practical AI systems while applying research thinking to real-world problems.
 
-- 🔬 **Research direction:** verifiable reasoning, LLM evaluation and distillation, trustworthy retrieval, and efficient model adaptation.
-- 🌏 **Background:** B.Eng. in Data Science from Woosong University, with entrepreneurship study at Babson College and a Mandarin program at Hungkuang University.
+- 🧠 **Focus:** computer vision, machine learning, and research-driven AI systems.
+- 🤝 **Open to:** AI/ML engineering roles, research collaborations, and meaningful open-source work.
 - 📫 **Contact:** [uzbekswe@gmail.com](mailto:uzbekswe@gmail.com)
 
 ## 🔬 Projects
