@@ -34,7 +34,7 @@
 
 <!-- The public LinkedIn view confirms the institution and dates but masks the degree and field of study. Add those details after confirming them while signed in. -->
 
-## 🎓 Selected Certifications
+## 🎓 Certifications
 
 - [**Mathematics for Machine Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/certificate/PMH2K3FWH4PX) — Imperial College London, May 2025
 - [**Mathematics for Machine Learning: Linear Algebra**](https://www.coursera.org/account/accomplishments/records/XIBO9QXVUCQ4) — Imperial College London, May 2025
