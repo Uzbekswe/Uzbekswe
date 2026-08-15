@@ -50,6 +50,7 @@
 
 ## 🌐 Languages
 
-I am native in 🇺🇿 Uzbek, fluent in 🇷🇺 Russian and 🇬🇧 English, intermediate in 🇰🇷 Korean!
+- I am native in 🇺🇿 Uzbek, fluent in 🇷🇺 Russian and 🇬🇧 English, intermediate in 🇰🇷 Korean!
+
 
 <!-- Add awards, scholarships, a portfolio website, and a contact email once you want them public. -->
