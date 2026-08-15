@@ -14,6 +14,15 @@
   Building AI systems, RAG & ML products, AI Agents and developer tools from South Korea.
 </p>
 
+## 🚀 About Me
+
+I am an independent AI engineer and researcher who builds AI systems that can be inspected and reproduced—not just demonstrated. My work spans [FaultFormer](https://github.com/Uzbekswe/faultformer), a cross-domain Transformer approach to bearing-fault diagnosis, and evidence-first LLM systems for Korean e-commerce support, document extraction, and local knowledge retrieval.
+
+I also build the infrastructure around reliable AI: [TraceRAG](https://github.com/Uzbekswe/tracerag) for citation-first local retrieval, [Model Routing](https://github.com/Uzbekswe/routing-system) for adaptive LLM gateways, and [PlanUI](https://github.com/Uzbekswe/planui), an npm/MCP package for structured human review of coding-agent plans. My research work includes a [GPT-2 Small reimplementation](https://github.com/Uzbekswe/gpt2-124m-from-scratch), a [verifiable reasoning lab](https://github.com/Uzbekswe/verifiable-reasoning-lab), and reproducible [LLM quantization](https://github.com/Uzbekswe/quantized-muse-glimmer) experiments.
+
+- 🔬 **Research direction:** verifiable reasoning, LLM evaluation and distillation, trustworthy retrieval, and efficient model adaptation.
+- 🌏 **Background:** B.Eng. in Data Science from Woosong University, with entrepreneurship study at Babson College and a Mandarin program at Hungkuang University.
+
 ## 🔬 Projects
 
 - [**FaultFormer**](https://github.com/Uzbekswe/faultformer) — Transformer-based cross-domain bearing-fault diagnosis with transfer learning; reports 99.77% accuracy.
