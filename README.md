@@ -22,6 +22,7 @@ I also build the infrastructure around reliable AI: [TraceRAG](https://github.co
 
 - 🔬 **Research direction:** verifiable reasoning, LLM evaluation and distillation, trustworthy retrieval, and efficient model adaptation.
 - 🌏 **Background:** B.Eng. in Data Science from Woosong University, with entrepreneurship study at Babson College and a Mandarin program at Hungkuang University.
+- 📫 **Contact:** [uzbekswe@gmail.com](mailto:uzbekswe@gmail.com)
 
 ## 🔬 Projects
 
