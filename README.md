@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I am an independent AI engineer and researcher based in South Korea. I graduated with a Bachelor of Engineering in Data Science from Woosong University and am open to AI/ML engineering, research, and collaboration opportunities.
+I am an independent AI engineer and researcher currently based in South Korea. I graduated with a Bachelor of Engineering in Data Science from Woosong University and am open to AI/ML engineering, research, and collaboration opportunities.
 
 During my experience with Samsung R&D Institute Bangladesh, I contributed to a computer-vision project in an R&D environment. That experience strengthened my interest in building practical AI systems while applying research thinking to real-world problems.
 
