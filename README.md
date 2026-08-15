@@ -18,9 +18,11 @@
 
 I am an independent AI engineer and researcher currently based in South Korea. I graduated with a Bachelor of Engineering in Data Science from Woosong University and am open to AI/ML engineering, research, and collaboration opportunities.
 
-During my experience with Samsung R&D Institute Bangladesh, I contributed to a computer-vision project in an R&D environment. That experience strengthened my interest in building practical AI systems while applying research thinking to real-world problems.
+As an AI Research Engineer Intern at Samsung R&D Institute Bangladesh (September–December 2025), I developed an AI-powered diagnostic system for musculoskeletal tissue injuries. Originating from a university capstone collaboration, the work used B-mode ultrasound to support ligament-injury diagnosis for ACL, PCL, and MCL injuries—addressing the gap between costly MRI scans and operator-dependent manual ultrasound interpretation.
 
-- 🧠 **Focus:** computer vision, machine learning, and research-driven AI systems.
+I contributed to AI/ML model development for nine clinical categories, including normal tissue, partial and full tears, fiber disruption, post-operative healing, degeneration, failed scans, and noise/blur. I researched CNN and ResNet architectures for real-time ultrasound image analysis and am continuing the work independently toward a PC-based solution with bounding-box overlays and multi-class classification.
+
+- 🧠 **Focus:** medical imaging, computer vision, machine learning, and research-driven AI systems.
 - 🤝 **Open to:** AI/ML engineering roles, research collaborations, and meaningful open-source work.
 - 📫 **Contact:** [uzbekswe@gmail.com](mailto:uzbekswe@gmail.com)
 
